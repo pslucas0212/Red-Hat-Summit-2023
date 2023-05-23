@@ -1,6 +1,6 @@
 # Red Hat Summit 2023 Announcements
 
-Updated 4 April 2023
+Updated 23 May 2023
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
