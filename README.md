@@ -28,14 +28,15 @@ Links below come from the [RED HAT NEWSROOM Red Hat Summit 2023](https://www.red
 - [Red Hat Introduces Red Hat Trusted Software Supply Chain](https://www.redhat.com/en/about/press-releases/red-hat-introduces-red-hat-trusted-software-supply-chain)
 - [Red Hat Unveils Red Hat Developer Hub to Help Fuel Developer Productivity](https://www.redhat.com/en/about/press-releases/red-hat-unveils-red-hat-developer-hub-help-fuel-developer-productivity?intcmp=7013a000003DR4iAAG)
 - [Red Hat Announces Red Hat Service Interconnect](https://www.redhat.com/en/about/press-releases/red-hat-announces-red-hat-service-interconnect)
-- [YES BANK Collaborates with Red Hat to Redefine Mobile Banking Experience for its Customers](https://www.redhat.com/en/about/press-releases/yes-bank-collaborates-red-hat-redefine-mobile-banking-experience-its-customers)
-- [Helvetia Brings Innovation to Customers with Red Hat Hybrid Cloud Technologies](https://www.redhat.com/en/about/press-releases/helvetia-brings-innovation-customers-red-hat-hybrid-cloud-technologies)
 
 ### Open Source
 
 ### Customer Stories
 - [Red Hat to Help Transform the Automotive Industry at the Edge with ETAS](https://www.redhat.com/en/about/press-releases/red-hat-help-transform-automotive-industry-edge-etas)
 - [Banco Galicia Streamlines Digital Onboarding with AI Platform Built on Red Hat Technologies](https://www.redhat.com/en/about/press-releases/banco-galicia-streamlines-digital-onboarding-ai-platform-built-red-hat-technologies)
+- [YES BANK Collaborates with Red Hat to Redefine Mobile Banking Experience for its Customers](https://www.redhat.com/en/about/press-releases/yes-bank-collaborates-red-hat-redefine-mobile-banking-experience-its-customers)
+- [Helvetia Brings Innovation to Customers with Red Hat Hybrid Cloud Technologies](https://www.redhat.com/en/about/press-releases/helvetia-brings-innovation-customers-red-hat-hybrid-cloud-technologies)
+
 
 ### Partners
 - [Red Hat Details Benefits For Energy Customer After Migrating Workloads to Hybrid Cloud Infrastructure](https://www.redhat.com/en/about/press-releases/red-hat-details-benefits-energy-customer-after-migrating-workloads-hybrid-cloud-infrastructure)
