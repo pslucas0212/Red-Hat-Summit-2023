@@ -1,6 +1,6 @@
 # Red Hat Summit 2023 Announcements
 
-Updated 23 May 2023
+Updated 24 May 2023
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
@@ -48,4 +48,5 @@ Links below come from the [RED HAT NEWSROOM Red Hat Summit 2023](https://www.red
 - [Red Hat OpenShift 4.13 is now available](https://www.redhat.com/en/blog/red-hat-openshift-413-now-available)
 - [Smoothing the transition: CentOS Linux 7 to Red Hat Enterprise Linux](https://www.redhat.com/en/blog/smoothing-transition-centos-linux-7-red-hat-enterprise-linux)
 - [Save the date for Red Hat Summit 2024](https://www.redhat.com/en/blog/save-date-red-hat-summit-2024)
+- [The moment for AI by Matt Hicks](https://www.redhat.com/en/blog/moment-ai)
 
