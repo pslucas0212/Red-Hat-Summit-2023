@@ -21,15 +21,11 @@ Links below come from the [RED HAT NEWSROOM Red Hat Summit 2023](https://www.red
 - [Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud](https://www.redhat.com/en/about/press-releases/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-hybrid-cloud)
 - [Red Hat Introduces Red Hat Advanced Cluster Security Cloud Service to Scale Cloud-Native Security Across the Hybrid Cloud](https://www.redhat.com/en/about/press-releases/red-hat-introduces-red-hat-advanced-cluster-security-cloud-service-scale-cloud-native-security-across-hybrid-cloud)
 
-### Edge
-
-
 ### Application Development
 - [Red Hat Introduces Red Hat Trusted Software Supply Chain](https://www.redhat.com/en/about/press-releases/red-hat-introduces-red-hat-trusted-software-supply-chain)
 - [Red Hat Unveils Red Hat Developer Hub to Help Fuel Developer Productivity](https://www.redhat.com/en/about/press-releases/red-hat-unveils-red-hat-developer-hub-help-fuel-developer-productivity?intcmp=7013a000003DR4iAAG)
 - [Red Hat Announces Red Hat Service Interconnect](https://www.redhat.com/en/about/press-releases/red-hat-announces-red-hat-service-interconnect)
 
-### Open Source
 
 ### Customer Stories
 - [Red Hat to Help Transform the Automotive Industry at the Edge with ETAS](https://www.redhat.com/en/about/press-releases/red-hat-help-transform-automotive-industry-edge-etas)
