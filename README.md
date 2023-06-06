@@ -40,7 +40,6 @@ Links below come from the [RED HAT NEWSROOM Red Hat Summit 2023](https://www.red
 ### Other Announcements During Summit
 - [Podman Desktop 1.0: The next-gen container management solution streamlining developers container operations](https://www.redhat.com/en/blog/podman-desktop-10-next-gen-container-management-solution-streamlining-developers-container-operations)
 - [Making cloud-native more accessible: Red Hat’s vision for Red Hat OpenShift with hosted control planes](https://www.redhat.com/en/blog/making-cloud-native-more-accessible-red-hats-vision-red-hat-openshift-hosted-control-planes)
-- [Making cloud-native more accessible: Red Hat’s vision for Red Hat OpenShift with hosted control planes](https://www.redhat.com/en/blog/making-cloud-native-more-accessible-red-hats-vision-red-hat-openshift-hosted-control-planes)
 - [Red Hat OpenShift 4.13 is now available](https://www.redhat.com/en/blog/red-hat-openshift-413-now-available)
 - [Smoothing the transition: CentOS Linux 7 to Red Hat Enterprise Linux](https://www.redhat.com/en/blog/smoothing-transition-centos-linux-7-red-hat-enterprise-linux)
 - [Save the date for Red Hat Summit 2024](https://www.redhat.com/en/blog/save-date-red-hat-summit-2024)
